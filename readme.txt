@@ -1,0 +1,1 @@
+Este proyecto usa WEBPACK el cual ya contiene ESLINT y Babel.
